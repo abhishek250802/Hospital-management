@@ -10,13 +10,13 @@ This project is a Hospital Management System developed to streamline and manage 
 * **Doctor Management**: Maintain records of doctors and their specialties.
 * **Appointment Scheduling**: Schedule and manage patient appointments with doctors.
 * **Billing System**: Generate and manage patient bills.
-* **Medical Records**: Store and retrieve patient medical histories.([GitHub][2])
+* **Medical Records**: Store and retrieve patient medical histories.
 
 ## Technologies Used
 
 * **Frontend**: Java (Swing for GUI)
 * **Backend**: Java
-* **Database**: MySQL (SQL scripts provided in `sqllll.sql`)([GitHub][3])
+* **Database**: MySQL (SQL scripts provided in `sqllll.sql`)
 
 ## Installation and Setup
 
@@ -52,7 +52,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).([GitHub][2])
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -60,6 +60,4 @@ This project is open-source and available under the [MIT License](LICENSE).([Git
 
 ---
 
-[1]: https://github.com/alekhgupta1441/Hospital_Management_System?utm_source=chatgpt.com "Hospital Management System - GitHub"
-[2]: https://github.com/Abhishek-Mallick/JanSevak?utm_source=chatgpt.com "Abhishek-Mallick/JanSevak - GitHub"
-[3]: https://github.com/amirasadi13/hospital-management/blob/master/README.md?utm_source=chatgpt.com "hospital-management/README.md at master - GitHub"
+[1]: [https://github.com/abhishek250802/Hospital-management.git]
